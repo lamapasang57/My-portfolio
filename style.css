@@ -1,1 +1,15 @@
-
+@charset "UTF-8";
+/* project : My Portfolio
+Auther : Lama Pasang
+dtate : 2025-09-01 */
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: poppins, sans-serif;
+}
+h1 {font-size: large;
+     color: #4CAF50;
+     text-align: center;
+     margin: 20px 0;
+}
